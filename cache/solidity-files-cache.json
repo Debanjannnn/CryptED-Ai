@@ -72,6 +72,86 @@
       "artifacts": [
         "Lock"
       ]
+    },
+    "C:\\Users\\rajhc\\OneDrive\\Desktop\\code\\cryptEdEDU\\contracts\\DaccyChallenge.sol": {
+      "lastModificationDate": 1735919852470,
+      "contentHash": "feff83631752c12a0f334211e3f548ae",
+      "sourceName": "contracts/DaccyChallenge.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200,
+            "details": {
+              "yul": true
+            }
+          },
+          "viaIR": true,
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.27"
+      ],
+      "artifacts": [
+        "DaccyChallenge"
+      ]
+    },
+    "C:\\Users\\rajhc\\OneDrive\\Desktop\\code\\cryptEdEDU\\contracts\\Lock.sol": {
+      "lastModificationDate": 1735919852471,
+      "contentHash": "1da7c271214aff7ac25799dbcbca36be",
+      "sourceName": "contracts/Lock.sol",
+      "solcConfig": {
+        "version": "0.8.28",
+        "settings": {
+          "optimizer": {
+            "enabled": true,
+            "runs": 200,
+            "details": {
+              "yul": true
+            }
+          },
+          "viaIR": true,
+          "evmVersion": "paris",
+          "outputSelection": {
+            "*": {
+              "*": [
+                "abi",
+                "evm.bytecode",
+                "evm.deployedBytecode",
+                "evm.methodIdentifiers",
+                "metadata"
+              ],
+              "": [
+                "ast"
+              ]
+            }
+          }
+        }
+      },
+      "imports": [],
+      "versionPragmas": [
+        "^0.8.27"
+      ],
+      "artifacts": [
+        "Lock"
+      ]
     }
   }
 }
