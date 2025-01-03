@@ -1,7 +1,7 @@
 
 ---
 
-# CryptED - Elevate Your DSA Skills with AI and Web3.0 By Earning ETH 💻✨
+# CryptED - Elevate Your DEV Skills with AI and Web3.0 By Earning ETH 💻✨
 
 **Learn, Debug, and Succeed** with AI-powered assistance.
 
@@ -45,7 +45,7 @@ We faced inconsistencies with the Gemini AI model's content generation. To overc
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/Debanjannnn/CryptED
+   https://github.com/Debanjannnn/CryptED-Ai
    ```
 2. Navigate to the project directory:
    ```bash
